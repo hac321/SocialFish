@@ -57,7 +57,7 @@ checkNgrok()
 def end():
     system('clear')
     print ('''
-                   S O C I A L{2}
+                   yoon pyae moe{2}
               |\    \ \ \ \ \ \ \      __           ___
               |  \    \ \ \ \ \ \ \   | O~-_    _-~~   ~~-_
               |   >----|-|-|-|-|-|-|--|  __/   /   {1}DON'T{2}   )
@@ -72,7 +72,7 @@ def loadModule(module):
        print ('''{0}
    _.-=-._     .-,
  .'       "-.,' /
-( AnonUD4Y  _.  <
+( Anomymous _.  <
  `=.____.="  `._\\
 
 
@@ -206,7 +206,7 @@ def runPEnv():
          '  .                     .     '          '     '  {1}v2.0{2}
                '  .  .  .  .  . '.    .'              '  .
                    '         '    '. '  {1}Updated_By--> AnonUD4Y_{2}
-                     '        {0}[ NOW WITH LIVE VICTIM ATTACK INFORMATION ]
+        Leeပဲ             '        {0}[ NOW WITH LIVE VICTIM ATTACK INFORMATION ]
                        ' .  '
                            '
                              {1}'''.format(GREEN, END, CYAN))
